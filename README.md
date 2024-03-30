@@ -1,3 +1,15 @@
+
+## Functions- Scope
+![6](https://github.com/gurwindersinghdev/Goat-Trading/assets/112465044/c5e438eb-ddb3-47ae-b271-2ce0bba818bb)
+
+
+
+
+
+
+
+
+
 # <h1 align="center"> Hardhat-Foundry Template </h1>
 
 **Template repository for Hardhat and Foundry**
